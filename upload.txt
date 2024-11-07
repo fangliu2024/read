@@ -1,0 +1,8 @@
+cd /Users/fangliu/Documents/Joseph
+cd read
+cp /Users/fangliu/Documents/Joseph/in.txt .
+git status
+git add in.txt
+git commit -m "Add in.txt"
+git push origin main
+
