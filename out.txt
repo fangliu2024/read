@@ -1,0 +1,15 @@
+\r   David Johnson
+29 years old
+4.80e+40 8.82e+14 2.32e+15
+\r   George Bush
+78 years old
+9.44e+11 3.99e+08 1.68e+05
+\r   Barack Obama
+63 years old
+5.06e+07 2.13e+02 4.29e+23
+\r   Joe Biden
+81 years old
+2.28e+23 7.04e+03 3.80e-01
+\r   Donald Trump
+78 years old
+1.51e+35 5.74e-01 2.31e+07
